@@ -1,2 +1,2 @@
 # fakebook
-Our attempt at replicating social media app's functions.
+Our attempt at replicating a basic social media app's functions.
