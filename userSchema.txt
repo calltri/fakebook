@@ -1,0 +1,29 @@
+
+{
+  _id: <objectId1>,
+  username: "bob",
+  name: {
+      first: "bob",
+      last: "John",
+      middle: "W"
+      },
+  profilePic: <pic1>,
+  birth: datetime.datetime(1912, 6, 23)
+  age: 4
+  location: {
+      street: "212 boring rd",
+      city: "gotham",
+      state: "gotham state",
+      country: "Luxembourg"
+      },
+  contact: {
+      phone: "123-456-7890",
+      email: "unicorns@example.com"
+      },
+  gender: "no gender",
+  accessLevel: 1
+  friends: [<fr1>, <fr2>]
+}
+  
+  
+  
